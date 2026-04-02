@@ -1,8 +1,9 @@
-## Hi there 👋
+# 👋salut, je suis **DARRYL** 
+## Etudiant en Bachelor 1 à l'École it et je réside en France
+
+#### *Je suis une personne qui s’intéresse à l’évolution des technologies et qui est toujours à la recherche de nouvelles façons de les utiliser. De plus, je suis un individu généralement motivé par la curiosité, le désir d’apprendre et l’envie de faire partie du changement.*
 
 <!--
-**pikodes/PIKODES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
